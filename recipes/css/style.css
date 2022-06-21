@@ -1,0 +1,74 @@
+
+.big-header {
+    text-align: center;
+    font-size: 64px;
+    color:blueviolet;
+    background-color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.recipe-list,
+.button{
+    padding: 15px 32px;
+    margin: 5px;  
+    font-size: 26px;
+    color:blueviolet;
+    background-color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.recipe-list{
+    text-align: center;
+    list-style-type:none;
+}
+.button {
+    background-color: lightpink;
+}
+
+a{
+    text-decoration:none;  
+}
+
+.imaj{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:450px;
+    height:450px;
+}
+
+.description{
+    text-align:center;
+    padding: 15px 32px;
+    margin: 5px;  
+    font-size: 26px;
+    color: crimson;
+    background-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+
+}
+
+.ingredients {
+    text-align:left;
+    padding: 15px 32px;
+    margin: 5px;  
+    font-size: 26px;
+    color: crimson;
+    background-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 0;
+}
+
+.steps {
+    text-align:left;
+    padding: 15px 32px;
+    margin: 5px;  
+    font-size: 26px;
+    color: crimson;
+    background-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 0;
+}
